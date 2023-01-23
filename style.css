@@ -1,0 +1,13 @@
+section{
+    width: 400px;
+    margin: 50px auto;
+    box-shadow: 1px 1px 5px gray;
+    border: 1px solid #ccc;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 1px 1px 2px red, 1px 1px 2px blue, 1px 1px 2px green;
+    background-color: rgb(205, 117, 117);
+}
+
+section input, button{
+    font-size: 1rem;
+}
